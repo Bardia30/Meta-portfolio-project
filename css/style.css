@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+}
+
+body {
+    height:100%;
+}
+
+
+header {
+    text-align: center;
+    background-color: #FFE3E1;
+    padding: 50px;
+    
+    
+}
+
+
+.header-img {
+    width: 286px;
+    height: 190px;
+    position: relative;
+    top: 50%;
+}
+
+nav {
+    background-color: #FF9494;
+    text-align: center;
+}
+
+
+
+li {
+    list-style: none;
+    
+    display: inline-block;
+    margin: 50px;
+}
+
+
+a {
+    color:#FFE3E1;
+    text-decoration: none;
+    font-family: 'Abel';
+    font-weight: 600;
+    font-size: 1.5em;
+
+}
+
+
+a:hover {
+    color: #0F52BA;
+    text-decoration: underline;
+}
+
+
+main {
+    background-color: #FFD1D1;
+    
+}
+
+
+#welcome {
+    
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+#promotion-h1 {
+    margin: 0 auto 50px auto;
+    position: relative;
+    top: 50px;
+    color: #E0144C;
+    font-family: 'Pacifico';
+    font-size: 3.2em;
+}
+
+#promotion-p {
+    font-family: 'Abel';
+    font-size: 20px;
+    color: #E0144C;
+}
+
+
+.card-p {
+    font-family: 'Abel';
+    font-size: 20px;
+    color: #E0144C;
+}
+
+.promotion-img {
+    width: 1027px;
+    height: 686px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hair-img {
+    width: 288px;
+    height: 192px;
+    margin-bottom: 20px;
+    border: #FF9494 solid 5px;
+    border-radius: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} 
+
+
+
+
+.nails-img {
+    width: 285px;
+    height: 190px;
+    margin-bottom: 20px;
+    border: #FF9494 solid 5px;
+    border-radius: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.makeup-img {
+    width: 285px;
+    height: 192px;
+    margin-bottom: 20px;
+    border: #FF9494 solid 5px;
+    border-radius: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#card-section {
+    text-align: center;
+}
+.card {
+    width: 320px;
+    height: 320px;
+    display: inline-block;
+    position: relative;
+    margin: auto 50px;
+}
+
+footer {
+    background-color: #FF9494;
+    
+    
+    
+    
+}
+
+.footer-img {
+    width:197px;
+    height:23.5px;
+    align-content: center;
+    
+    
+    
+}
+
+
+#container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+
+.footer-div-img {
+    align-items: center;
+    margin:50px;
+    
+}
+
+.footer-div-p {
+    align-items: center;
+    margin:50px;
+}
+
+
+
+
+
